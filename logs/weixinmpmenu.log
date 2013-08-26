@@ -1,0 +1,9 @@
+[INFO ] 2013-08-25 21:20:12,284 cn.com.goldpalm.weixin.main.MenuManager     - 22222222222222
+  [ERROR] 2013-08-25 21:20:13,247 cn.com.goldpalm.weixin.util.WeixinUtil     - 获取token失败 errcode:40013 errmsg:invalid appid
+  [INFO ] 2013-08-25 21:20:38,320 cn.com.goldpalm.weixin.main.MenuManager     - 22222222222222
+  [ERROR] 2013-08-25 21:20:39,280 cn.com.goldpalm.weixin.util.WeixinUtil     - 获取token失败 errcode:40013 errmsg:invalid appid
+  [INFO ] 2013-08-25 21:36:24,044 cn.com.goldpalm.weixin.main.MenuManager     - 22222222222222
+  [ERROR] 2013-08-25 21:36:25,016 cn.com.goldpalm.weixin.util.WeixinUtil     - 获取token失败 errcode:40013 errmsg:invalid appid
+  [INFO ] 2013-08-25 21:37:23,449 cn.com.goldpalm.weixin.main.MenuManager     - 22222222222222
+  [ERROR] 2013-08-25 21:37:24,399 cn.com.goldpalm.weixin.util.WeixinUtil     - 获取token失败 errcode:40013 errmsg:invalid appid
+  
